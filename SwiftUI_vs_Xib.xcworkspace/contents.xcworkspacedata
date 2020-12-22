@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Xib_simple_screens/Xib_simple_screens/Xib_simple_screens.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftUI_simple_screens/SwiftUI_simple_screens.xcodeproj">
+   </FileRef>
+</Workspace>
